@@ -1,0 +1,44 @@
+--------------------------
+--------------------------
+--------------------------
+Texto após 'POÇO': Texto após 'POÇO':  POÇO           :   3RJS 0399D RJTTT 
+Texto após 'LONGITUDE' : não encontrada no arquivo.
+Texto após 'LATITUDE' : Texto após 'LATITUDE' :  LATITUDE       :   -22.42383 (  -22  25 25.8)
+Texto após 'B.A.P' : B.A.P' : B.A.P          :    -196.0
+Texto após 'MAIOR PROF. : : :   3652.0
+Palavra 'TEMPERATURA FUNDO POCO' não encontrada no arquivo.
+Informações após 'LACHENBRUCH & BREWER':
+null':
+':
+':
+':
+':
+':
+':
+':
+':
+':
+':
+':
+--------------------------
+--------------------------
+--------------------------
+Texto após 'POÇO': Texto após 'POÇO':  POÇO           :   3RJS 0399D RJTTT 
+Texto após 'LONGITUDE' : não encontrada no arquivo.
+Texto após 'LATITUDE' : Texto após 'LATITUDE' :  LATITUDE       :   -22.42383 (  -22  25 25.8)
+Texto após 'B.A.P' : B.A.P' : B.A.P          :    -196.0
+Texto após 'MAIOR PROF. : : :   3652.0
+Palavra 'TEMPERATURA FUNDO POCO' não encontrada no arquivo.
+Informações após 'LACHENBRUCH & BREWER':
+null':
+':
+':
+':
+':
+':
+':
+':
+':
+':
+':
+':
